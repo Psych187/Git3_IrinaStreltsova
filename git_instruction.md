@@ -58,3 +58,8 @@ __git config --global user.email__
 ![conflict](conflict.png)
 
 Need some conflict here
+
+Для разрешения конфликта доступно 4 варианта действий:
+
+__Accept current change; Accept incoming change; Accept both changes; Compare changes__
+![conflict resolvation](conflict_res.png)
