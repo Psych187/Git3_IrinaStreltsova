@@ -56,3 +56,5 @@ __git config --global user.email__
 Конфликт выглядит вот так
 
 ![conflict](conflict.png)
+
+Need some conflict here
