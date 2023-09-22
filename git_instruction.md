@@ -57,4 +57,4 @@ __git config --global user.email__
 
 ![conflict](conflict.png)
 
-Need some conflict
+Need some conflict here
