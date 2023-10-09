@@ -63,3 +63,15 @@ Need some conflict here
 
 __Accept current change; Accept incoming change; Accept both changes; Compare changes__
 ![conflict resolvation](conflict_res.png)
+
+# Работа с удаленными репозиториями
+
+## 1. Подготовка
+Перед начаом работы необходимо зарегистрироваться на GitHub по ссылке: https://github.com/. После прохождения регистрации нажимаем на значок профиля (кружочек справа в верхнем углу) => Your repositories => New => ![repositorium](reposit1.png.png) => задаем вручную имя для нового репозитория (Repository name) => не изменяя предварительных настроек сохраняем (можно через Enter). Пустой репозиторий готов.
+ ![repositorium2](reposit2.png)
+
+ ## 2. Загрузка локального репозитория на GitHub
+ Для добавления на GitHub репозитория с компьютера необходимо открыть созданный на GitHub репозиторий, пролистать вниз (до рамки с тремя командами - …or push an existing repository from the command line) и скопировать первую ссылку ![repositorium3](reposit3.png)
+ Эту команду необходимо запустить в локальном терминале.
+
+Далее копируем третью команду и запускаем в терминале (! в данном случае ветвь называется main. Если ветвь имеет другое название - его необходимо исправить)
